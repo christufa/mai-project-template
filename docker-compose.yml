@@ -1,6 +1,6 @@
 services:
   datascience:
-    image: test
+    image: ghcr.io/christufa/mai-base-image:main
     container_name: ${CONTAINER_NAME:-ds-dev}
 
     runtime: nvidia
