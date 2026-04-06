@@ -35,7 +35,6 @@ logs/
 *.csv
 *.tsv
 *.parquet
-*.json
 *.jsonl
 *.h5
 *.hdf5
